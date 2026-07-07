@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Name": "Paracetamol 500mg",
+    "Notes": "Pain reliever and fever reducer",
+    "ExpiryDate": "2027-05-15T00:00:00",
+    "Quantity": 120,
+    "Price": 25.50,
+    "Brand": "Calpol"
+  },
+  {
+    "Id": 2,
+    "Name": "Amoxicillin 250mg",
+    "Notes": "Antibiotic - expiring soon",
+    "ExpiryDate": "2026-07-25T00:00:00",
+    "Quantity": 45,
+    "Price": 110.00,
+    "Brand": "Mox"
+  },
+  {
+    "Id": 3,
+    "Name": "Cetirizine 10mg",
+    "Notes": "Antihistamine - low stock",
+    "ExpiryDate": "2027-11-30T00:00:00",
+    "Quantity": 6,
+    "Price": 18.75,
+    "Brand": "Zyrtec"
+  },
+  {
+    "Id": 4,
+    "Name": "Ibuprofen 400mg",
+    "Notes": "Expiring soon and low stock",
+    "ExpiryDate": "2026-07-20T00:00:00",
+    "Quantity": 4,
+    "Price": 32.00,
+    "Brand": "Brufen"
+  },
+  {
+    "Id": 5,
+    "Name": "Metformin 500mg",
+    "Notes": "Diabetes medication",
+    "ExpiryDate": "2028-01-10T00:00:00",
+    "Quantity": 200,
+    "Price": 45.25,
+    "Brand": "Glycomet"
+  }
+]

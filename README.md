@@ -3,6 +3,9 @@
 A Single Page Application for ABC Pharmacy to track medicines and maintain
 sale records. Built as a take-home assessment.
 
+<img width="960" height="417" alt="image" src="https://github.com/user-attachments/assets/2567cdb2-06ea-4c6e-8f50-b0f9d7387339" />
+
+
 **Stack:** ASP.NET Core 8 Web API · React 18 (Vite) · data persisted
 server-side in JSON files (no database).
 
